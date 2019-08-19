@@ -1,0 +1,8 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<suite name = "Interview">
+    <test name = "Check Google Search">
+        <classes>
+            <class name = "com.interview.Exercise" />
+        </classes>
+    </test>
+</suite>
